@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-comoros-canal-and-intervention-historian
-  name: Comoros Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-comoros-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_km_001
+    name: Comoros Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_002
+    name: Comoros Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_003
+    name: Comoros Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_004
+    name: Comoros Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_005
+    name: Comoros Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_006
+    name: Comoros Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_007
+    name: Comoros Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_008
+    name: Comoros Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_009
+    name: Comoros Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_010
+    name: Comoros Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_011
+    name: Comoros Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_012
+    name: Comoros Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_013
+    name: Comoros Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_014
+    name: Comoros Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_015
+    name: Comoros Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_016
+    name: Comoros Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_017
+    name: Comoros Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_018
+    name: Comoros Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_019
+    name: Comoros Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_020
+    name: Comoros Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_021
+    name: Comoros Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_022
+    name: Comoros Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_023
+    name: Comoros Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_024
+    name: Comoros Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_025
+    name: Comoros Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_026
+    name: Comoros Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_027
+    name: Comoros Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_028
+    name: Comoros Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_029
+    name: Comoros Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_030
+    name: Comoros Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_031
+    name: Comoros Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_032
+    name: Comoros Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_033
+    name: Comoros Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_034
+    name: Comoros Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_035
+    name: Comoros Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_036
+    name: Comoros Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_037
+    name: Comoros Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_038
+    name: Comoros Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_039
+    name: Comoros Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_040
+    name: Comoros Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_041
+    name: Comoros Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_042
+    name: Comoros Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_043
+    name: Comoros Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_044
+    name: Comoros Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_045
+    name: Comoros Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_046
+    name: Comoros Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_047
+    name: Comoros Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_048
+    name: Comoros Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_049
+    name: Comoros Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_050
+    name: Comoros Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_051
+    name: Comoros Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_052
+    name: Comoros Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_053
+    name: Comoros Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_054
+    name: Comoros Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_055
+    name: Comoros Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_056
+    name: Comoros Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_057
+    name: Comoros Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_058
+    name: Comoros Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_059
+    name: Comoros Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_060
+    name: Comoros Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_061
+    name: Comoros Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_062
+    name: Comoros Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_063
+    name: Comoros Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_064
+    name: Comoros Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_065
+    name: Comoros Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_066
+    name: Comoros Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_067
+    name: Comoros Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_068
+    name: Comoros Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_069
+    name: Comoros Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_070
+    name: Comoros Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_071
+    name: Comoros Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_072
+    name: Comoros Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_073
+    name: Comoros Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_074
+    name: Comoros Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_075
+    name: Comoros Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_076
+    name: Comoros Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_077
+    name: Comoros Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_078
+    name: Comoros Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_079
+    name: Comoros Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_080
+    name: Comoros Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_081
+    name: Comoros Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_082
+    name: Comoros Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_083
+    name: Comoros Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_084
+    name: Comoros Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_085
+    name: Comoros Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_086
+    name: Comoros Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_087
+    name: Comoros Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_088
+    name: Comoros Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_089
+    name: Comoros Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_090
+    name: Comoros Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_091
+    name: Comoros Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_092
+    name: Comoros Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_093
+    name: Comoros Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_094
+    name: Comoros Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_095
+    name: Comoros Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_096
+    name: Comoros Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_097
+    name: Comoros Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_098
+    name: Comoros Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_099
+    name: Comoros Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_100
+    name: Comoros Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_101
+    name: Comoros Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_102
+    name: Comoros Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_103
+    name: Comoros Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_104
+    name: Comoros Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_105
+    name: Comoros Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_106
+    name: Comoros Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_107
+    name: Comoros Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_108
+    name: Comoros Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_109
+    name: Comoros Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_110
+    name: Comoros Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_111
+    name: Comoros Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_112
+    name: Comoros Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_113
+    name: Comoros Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_114
+    name: Comoros Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_115
+    name: Comoros Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_116
+    name: Comoros Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_117
+    name: Comoros Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_118
+    name: Comoros Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_119
+    name: Comoros Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_120
+    name: Comoros Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_121
+    name: Comoros Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_122
+    name: Comoros Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_123
+    name: Comoros Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_124
+    name: Comoros Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_125
+    name: Comoros Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_126
+    name: Comoros Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_127
+    name: Comoros Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_128
+    name: Comoros Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_129
+    name: Comoros Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_130
+    name: Comoros Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_131
+    name: Comoros Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_132
+    name: Comoros Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_133
+    name: Comoros Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_134
+    name: Comoros Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_135
+    name: Comoros Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_136
+    name: Comoros Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_137
+    name: Comoros Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_138
+    name: Comoros Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_139
+    name: Comoros Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_140
+    name: Comoros Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_141
+    name: Comoros Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_142
+    name: Comoros Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_143
+    name: Comoros Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_144
+    name: Comoros Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_145
+    name: Comoros Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_146
+    name: Comoros Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_147
+    name: Comoros Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_148
+    name: Comoros Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_149
+    name: Comoros Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_150
+    name: Comoros Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_151
+    name: Comoros Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_152
+    name: Comoros Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_153
+    name: Comoros Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_154
+    name: Comoros Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_155
+    name: Comoros Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_156
+    name: Comoros Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_157
+    name: Comoros Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_158
+    name: Comoros Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_159
+    name: Comoros Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_160
+    name: Comoros Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_161
+    name: Comoros Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_162
+    name: Comoros Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_163
+    name: Comoros Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_164
+    name: Comoros Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_165
+    name: Comoros Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_166
+    name: Comoros Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_167
+    name: Comoros Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_168
+    name: Comoros Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_169
+    name: Comoros Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_km_170
+    name: Comoros Agent 170
+    status: ACTIVE_SCAFFOLD

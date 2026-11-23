@@ -1,0 +1,16 @@
+{
+  "url": "https://babel.hathitrust.org/",
+  "final_url": "https://babel.hathitrust.org/cgi/mb",
+  "title": "HathiTrust Digital Library",
+  "fetched_at": "2026-11-23T06:33:27.173290Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 80037,
+  "sha256": "f8cef57837c6660f227d7864619c45f61c765ee5c606f113f5c6e2c5427936cd",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": true
+}

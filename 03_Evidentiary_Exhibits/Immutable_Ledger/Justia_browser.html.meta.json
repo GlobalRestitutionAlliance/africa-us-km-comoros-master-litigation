@@ -1,0 +1,18 @@
+{
+  "url": "https://www.justia.com/",
+  "final_url": "https://www.justia.com/",
+  "title": "Justia",
+  "fetched_at": "2026-11-23T06:33:26.921520Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44402,
+  "sha256": "d04a2cf91bdc9cb7561f5ccf7b850d4231ff9a5016d0d1277f54eba9cbfef4ba",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}

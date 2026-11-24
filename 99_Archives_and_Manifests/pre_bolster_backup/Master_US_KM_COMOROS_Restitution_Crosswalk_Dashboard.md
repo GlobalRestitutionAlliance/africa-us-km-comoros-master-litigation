@@ -3,7 +3,7 @@
 **Country Key:** US_KM_COMOROS
 **ISO Code:** KM/COM
 **Historical Arc:** 1975-2026
-**Restitution Pool:** TBD (valuation pending)
+**Restitution Pool:** $3.00B
 **Instruments:** 8
 
 ## Primary Judgment
